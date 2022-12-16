@@ -1,3 +1,6 @@
+# STAT-385-Final-Project
+UIUC STAT 385 Final Project
+
 ## Author
 
 - **Name:** Nicholas Wong
