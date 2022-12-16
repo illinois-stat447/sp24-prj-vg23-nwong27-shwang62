@@ -1,5 +1,5 @@
 # STAT-385-Final-Project
-UIUC STAT 385 Final Project
+UIUC STAT 385 Final Project - University of Washington Seattle (UW) GPA Data: 2010 - 2015 Shiny Application
 
 ## Author
 
