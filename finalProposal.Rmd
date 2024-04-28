@@ -2,10 +2,8 @@
 title: "finalProposal"
 author: "Sam Hwang (shwang62), Akhil Gogineni (vg23), Nicholas Wong (nwong27)"
 date: "2024-04-28"
-output: html_document 
-    df_print : paged
+output:  
   pdf_document: default
-  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -21,9 +19,9 @@ The data for this analysis comes from a Final Project that students from the Uni
 # Interactive Features
 The app will feature several interactive components to aid in data visualization and analysis:
 
-Dropdown Menus: Users can select the Year, Class, and Instructor from dropdown menus to filter the dataset accordingly.
-Dynamic Plots: Upon selection, dynamic plots will update to show the distribution of grades for the selected class, including histograms and box plots.
-Summary Statistics: A dynamic text output will display summary statistics such as mean, median, and mode of the grades for the selected filters.
++ Dropdown Menus: Users can select the Year, Class, and Instructor from dropdown menus to filter the dataset accordingly.
++ Dynamic Plots: Upon selection, dynamic plots will update to show the distribution of grades for the selected class, including histograms and box plots.
++ Summary Statistics: A dynamic text output will display summary statistics such as mean, median, and mode of the grades for the selected filters.
 
 # Conclusion
 This project allows University of Washington Seattle students to better understand the grading patterns across different courses and instructors, potentially aiding in course selection and academic planning. The use of R Markdown and Shiny has enabled us to build a comprehensive, interactive tool that can evolve with further insights and data contributions.
