@@ -75,7 +75,7 @@ server = function(input, output, session) {
     )
   })
   
-  uwgpa_year_class <- reactive({
+  uwgpa_year_class = reactive({
     uwgpa_year() %>%
       filter(Class == input$class)
   })
@@ -113,7 +113,7 @@ server = function(input, output, session) {
   
 output$Plot3 = renderPlot({
   if (!is.null(input$class) && !is.null(input$instructor)) {
-    data <- uwgpa %>%
+    data = uwgpa %>%
       filter(Class == input$class, Instructor == input$instructor, Year >= 2010, Year <= 2015) %>%
       group_by(Year) %>%
       summarise(AverageGPA = mean(AverageGPA))
