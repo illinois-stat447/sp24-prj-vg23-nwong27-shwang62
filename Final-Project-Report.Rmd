@@ -4,7 +4,7 @@ author:
   - "Nicholas Wong (nwong27)"
   - "Sam Hwang (shwang62)"
   - "Akhil Gogineni (vg23)"
-date: "2024-04-28"
+date: "April 28, 2024"
 output:
   html_document:
     df_print: paged
