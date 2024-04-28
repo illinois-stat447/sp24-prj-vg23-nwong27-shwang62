@@ -4,11 +4,11 @@ UIUC STAT 447 Final Project
 ## Authors
 
 -   **Name:** Nicholas Wong
--   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu){.email}
+-   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
 -   **Name:** Akhil Gogineni
--   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu){.email}
+-   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
 -   **Name:** Sam Hwang
--   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu){.email}
+-   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
 
 ## Purpose
 
