@@ -33,7 +33,7 @@ output:
 
 - Shiny app features several interactive components to aid in data visualization and analysis
 
-    1)  Dropdown Menus: Users can select the Year, Class, and Instructor from a dropdown menu to filter the dataset accordingly
+    1)  Dropdown Menus: Users can select the Year, Class, and Instructor from dropdown menus to filter the dataset accordingly
     2)  Dynamic Plots: Upon selection, dynamic plots update to show the grades distribution for the selected class, including                  histograms and box plots
     3)  Summary Statistics: A dynamic text output displays summary statistics like mean, median, and mode of the grades for the                selected filters
 

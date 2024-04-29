@@ -1,17 +1,17 @@
 # STAT-447-Final-Project
-UIUC STAT 447 Final Project - University of Washington Seattle (UW) GPA Data: 2010 - 2015 Shiny Application
+UIUC STAT $447$ Final Project - University of Washington Seattle (UW) GPA Data: $2010 - 2015$ Shiny Application
 
 ## Authors and Contributions
 
 -   **Name:** Nicholas Wong
 -   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
--   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`,       and wrote the `README.md` file
+-   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`        including the dropdown menus, and wrote the `README.md` file
 -   **Name:** Akhil Gogineni
 -   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
--   **Contributions:** Implemented visualizations in the Shiny App code found in `app.R` and recorded the presentation video
+-   **Contributions:** Implemented visualizations (Histograms) in the Shiny App code found in `app.R` and recorded the presentation        video
 -   **Name:** Sam Hwang
 -   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
--   **Contributions:** Implemented visualizations in the Shiny App code found in `app.R` and wrote the Project Report
+-   **Contributions:** Implemented visualizations (Linear Regression plot) in the Shiny App code found in `app.R` and wrote the Project     Report
 
 ## Project Proposal
 
