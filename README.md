@@ -30,7 +30,7 @@ Class would be conditionally dependent on the Year and the Instructor would be c
 
 ## Shiny App Example
 
-<img src = "images/UW-GPA-Shiny-App-Example.png" width=200%>
+<img src = "images/UW-GPA-Shiny-App-Example.png" width=300%>
 
 Shiny App of University of Washington Seattle GPA Data from $2010 - 2015$ when Year = $2013$, Class = STAT $311$, and Instructor =  Cardoso, Tomre displaying histograms, box plots, and linear regression plot. 
 
