@@ -5,11 +5,11 @@
 -   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`        including the dropdown menus and visualizations (Histograms), and wrote the `README.md` file
 -   **Name:** Akhil Gogineni
 -   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
--   **Contributions:** Implemented visualizations (Box plots) in the Shiny App code found in `app.R` and recorded the presentation         video
+-   **Contributions:** Implemented visualizations (Box plots) in the Shiny App code located at `app.R` and recorded the presentation       video found in a University of Illinois Box Link
 -   **Name:** Sam Hwang
 -   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
--   **Contributions:** Implemented visualizations (Linear Regression plot) in the Shiny App code found in `app.R` and wrote the 
-    Project Report
+-   **Contributions:** Implemented visualizations (Linear Regression plot) in the Shiny App code located at `app.R` and wrote the 
+    Project Report located at `Final-Project-Report.pdf`
 
 ## Project Proposal
 
