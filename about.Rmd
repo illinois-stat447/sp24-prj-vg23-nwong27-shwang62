@@ -2,13 +2,14 @@
 
 -   **Name:** Nicholas Wong
 -   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
--   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`        including the dropdown menus, and wrote the `README.md` file
+-   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`        including the dropdown menus and visualizations (Histograms), and wrote the `README.md` file
 -   **Name:** Akhil Gogineni
 -   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
--   **Contributions:** Implemented visualizations (Histograms) in the Shiny App code found in `app.R` and recorded the presentation        video
+-   **Contributions:** Implemented visualizations (Box plots) in the Shiny App code found in `app.R` and recorded the presentation         video
 -   **Name:** Sam Hwang
 -   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
--   **Contributions:** Implemented visualizations (Linear Regression plot) in the Shiny App code found in `app.R` and wrote the Project     Report
+-   **Contributions:** Implemented visualizations (Linear Regression plot) in the Shiny App code found in `app.R` and wrote the 
+    Project Report
 
 ## Project Proposal
 
@@ -23,6 +24,12 @@ Using our visualizations and this data, the user can discover which classes have
 The data here comes from a Final Project $3$ students from the University of Washington Seattle worked on in a course they took called INFO $201$: Technical Foundations of Informatics. The dataset is primarily divided up into $20$ columns which consists of the Year, Quarter, Class, Title, Instructor, Student Count, Average GPA, and $13$ columns for letter grades (A, A-, B+, B, B-, C+, C, C-, D+, D, 
 D-, F, and W). We decided to have the app be filtered mainly by $3$ of these columns, which are the Class, Instructor, and Year. The 
 Class would be conditionally dependent on the Year and the Instructor would be conditionally dependent on both the Class and Year.
+
+## Shiny App Example
+
+![](images/UW-GPA-Shiny-App-Example.png)
+
+Shiny App of University of Washington Seattle GPA Data from $2010 - 2015$ when $\text{Year} \; \mathbf{=} \; 2013, \text{Class} \; \mathbf{=} \; \text{STAT} 311, \text{Instructor} \; \mathbf{=} \; \text{Cardoso, Tomre}$ showing histograms, box plots, and linear regression plot. 
 
 ## Presentation
 
