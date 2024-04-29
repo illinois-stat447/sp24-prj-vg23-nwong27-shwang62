@@ -5,7 +5,7 @@ UIUC STAT 447 Final Project - University of Washington Seattle (UW) GPA Data: 20
 
 -   **Name:** Nicholas Wong
 -   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
--   **Contributions:** created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`,       and wrote the `README.md` file
+-   **Contributions:** Created the Project Slides, found the `UWgpa.csv` dataset, implemented majority of Shiny App code in `app.R`,       and wrote the `README.md` file
 -   **Name:** Akhil Gogineni
 -   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
 -   **Contributions:** Implemented visualizations in the Shiny App code found in `app.R` and recorded the presentation video
