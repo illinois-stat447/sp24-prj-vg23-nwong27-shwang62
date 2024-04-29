@@ -1,0 +1,51 @@
+---
+title: "UW 2010 - 2015 GPA Data"
+subtitle: "STAT 447 Final Project"
+author: "Nicholas Wong (nwong27) <br> Sam Hwang (shwang62) <br> Akhil Gogineni (vg23)"
+date: "April 28, 2024"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+## Introduction | UW GPA Data From 2010 - 2015
+
+- Dataset of class information for each class taught at University of Washington Seattle (UW) from Fall 2010 to Fall 2015
+- Created a responsive web application (Shiny app) analyzing the dataset of course grades from 2010 - 2015 using the Shiny 
+library
+
+## Purpose | UW GPA Data From 2010 - 2015
+
+- To analyze the dataset of course grades from 2010 - 2015 at UW 
+- Particularly interested in the breakdown of the letter grading within each class
+- Data anonymized and can be manipulated to highlight features important to current UW students
+- Using our visualizations and this data, the user can discover which classes have a higher average GPA when stratified by year
+
+## Data | UW GPA Data From 2010 - 2015
+
+- Comes from a Final Project students from UW worked on in a course they took called INFO 201: Technical Foundations of Informatics 
+- Dataset primarily divided up into 20 columns which consists of the Year, Quarter, Class, Title, Instructor, Student Count, 
+Average GPA, and 13 columns for letter grades (A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F, and W)
+- Decided to have the Shiny app be filtered mainly by 3 of these columns, which are the Class, Instructor, and Year
+- Class conditionally dependent on the Year and the Instructor conditionally dependent on both the Class and Year
+
+## Interactive Features | UW GPA Data From 2010 - 2015
+
+- Shiny app features several interactive components to aid in data visualization and analysis
+
+    1)  Dropdown Menus: Users can select the Year, Class, and Instructor from a dropdown menu to filter the dataset accordingly
+    2)  Dynamic Plots: Upon selection, dynamic plots update to show the grades distribution for the selected class, including histograms and box plots
+    3)  Summary Statistics: A dynamic text output displays summary statistics like mean, median, and mode of the grades for the selected filters
+
+## Conclusion | UW GPA Data From 2010 - 2015
+
+-  Project allows UW students to better understand the grading patterns across different courses and instructors, potentially aiding 
+in academic planning and course selection
+- Using R Markdown and Shiny has enabled us to build a comprehensive, interactive tool which can evolve with further insights and 
+data contributions
+    
+## References | UW GPA Data From 2010 - 2015
+
+-  [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
+-  [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)
+-  [UWgpa.csv Dataset](https://github.com/joshkeating/info-201-coursegrades/blob/master/resources/UWgpa.csv)

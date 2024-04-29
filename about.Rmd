@@ -7,6 +7,8 @@
 -   **Name:** Sam Hwang
 -   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
 
+## Project Proposal
+
 ## Purpose
 
 The purpose of this application here is to analyze the dataset of course grades from 2010 - 2015 at the University of Washington 
@@ -25,4 +27,5 @@ Class would be conditionally dependent on the Year and the Instructor would be c
 
 ## References
 -   [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
+-   [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)
 -   [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)

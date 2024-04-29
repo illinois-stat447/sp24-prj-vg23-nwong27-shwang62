@@ -1,14 +1,19 @@
 # STAT-447-Final-Project
-UIUC STAT 447 Final Project
+UIUC STAT 447 Final Project - University of Washington Seattle (UW) GPA Data: 2010 - 2015 Shiny Application
 
-## Authors
+## Authors and Contributions
 
 -   **Name:** Nicholas Wong
 -   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
+-   **Contributions:** 
 -   **Name:** Akhil Gogineni
 -   **Email:** [vg23\@illinois.edu](mailto:vg23@illinois.edu)
+-   **Contributions:**
 -   **Name:** Sam Hwang
 -   **Email:** [shwang62\@illinois.edu](mailto:shwang62@illinois.edu)
+-   **Contributions:** 
+
+## Project Proposal
 
 ## Purpose
 
@@ -22,6 +27,11 @@ The data here comes from a Final Project $3$ students from the University of Was
 D-, F, and W). We decided to have the app be filtered mainly by $3$ of these columns, which are the Class, Instructor, and Year. The 
 Class would be conditionally dependent on the Year and the Instructor would be conditionally dependent on both the Class and Year.
 
+## Presentation
+
+[University of Illinois Box Link](https://uofi.app.box.com/folder/0)
+
 ## References
-- [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
-- [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)
+-  [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
+-  [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)
+-  [UWgpa.csv Dataset](https://github.com/joshkeating/info-201-coursegrades/blob/master/resources/UWgpa.csv)
