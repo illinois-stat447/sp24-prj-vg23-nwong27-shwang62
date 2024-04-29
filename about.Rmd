@@ -25,8 +25,6 @@ The data here comes from a Final Project 3 students from the University of Washi
 D-, F, and W). We decided to have the app be filtered mainly by 3 of these columns, which are the Class, Instructor, and Year. The 
 Class would be conditionally dependent on the Year and the Instructor would be conditionally dependent on both the Class and Year.
 
-Shiny App of University of Washington Seattle GPA Data from 2010 - 2015 when Year = 2013, Class = STAT 311, and Instructor =  Cardoso, Tomre displaying histograms, box plots, and linear regression plot. 
-
 ## Presentation
 
 [University of Illinois Box Link](https://uofi.app.box.com/folder/0)
