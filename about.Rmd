@@ -29,6 +29,12 @@ Class would be conditionally dependent on the Year and the Instructor would be c
 
 [University of Illinois Box Link](https://uofi.app.box.com/folder/0)
 
+## Files
+
+- Final Project Report: Located at `Final-Project-Report.pdf`
+- Final Project Slides: Located at `Final-Project-Slides.pdf`, code at `Final-Project-Slides.Rmd`
+- Shiny App Code: Located at `app.R`
+
 ## References
 -  [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
 -  [University of Washington Seattle: Standard Grading System](https://www.washington.edu/students/gencat/front/Grading_Sys.html)
