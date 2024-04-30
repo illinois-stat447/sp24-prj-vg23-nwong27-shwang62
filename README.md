@@ -43,7 +43,7 @@ Shiny App of University of Washington Seattle GPA Data from $2010 - 2015$ when Y
 ## Files
 
 - Final Project Report: Located at `Final-Project-Report.pdf`
-- Final Project Slides - Located at `Final-Project-Slides.pdf`, code at `Final-Project-Slides.Rmd`
+- Final Project Slides: Located at `Final-Project-Slides.pdf`, code at `Final-Project-Slides.Rmd`
 
 ## References
 -  [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)
