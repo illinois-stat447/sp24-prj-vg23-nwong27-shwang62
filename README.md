@@ -1,7 +1,9 @@
 # STAT-447-Final-Project
 UIUC STAT $447$ Final Project - University of Washington Seattle (UW) GPA Data: $2010 - 2015$ Shiny Application
 
-## Authors and Contributions
+<img src = "images/Intro-Slide.png" width=200%>
+
+## Authors and Contributions / Peer Evaluations
 
 -   **Name:** Nicholas Wong
 -   **Email:** [nwong27\@illinois.edu](mailto:nwong27@illinois.edu)
@@ -37,6 +39,11 @@ Shiny App of University of Washington Seattle GPA Data from $2010 - 2015$ when Y
 ## Presentation
 
 [University of Illinois Box Link](https://uofi.app.box.com/folder/0)
+
+## Files
+
+Final Project Report - Located at `Final-Project-Report.pdf`
+Final Project Slides - Located at `Final-Project-Slides.pdf`, code at `Final-Project-Slides.Rmd`
 
 ## References
 -  [University of Washington Seattle Grades Dataset from Info 201 Course Grades](https://github.com/joshkeating/info-201-coursegrades/)

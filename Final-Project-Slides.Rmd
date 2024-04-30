@@ -2,7 +2,6 @@
 title: "UW 2010 - 2015 GPA Data"
 subtitle: "STAT 447 Final Project"
 author: "Nicholas Wong (nwong27) <br> Sam Hwang (shwang62) <br> Akhil Gogineni (vg23)"
-date: "April 28, 2024"
 output:
   ioslides_presentation: default
   slidy_presentation: default
