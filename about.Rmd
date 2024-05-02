@@ -27,7 +27,7 @@ Class would be conditionally dependent on the Year and the Instructor would be c
 
 ## Presentation
 
-[University of Illinois Box Link](https://uofi.app.box.com/folder/0)
+[University of Illinois Box Link]((https://uofi.box.com/s/94umxij6i5yk37o8rt81q6qxhfk45l75)
 
 ## Files
 
