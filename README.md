@@ -38,7 +38,7 @@ Shiny App of University of Washington Seattle GPA Data from $2010 - 2015$ when Y
 
 ## Presentation
 
-[University of Illinois Box Link](https://uofi.app.box.com/folder/0)
+[University of Illinois Box Link](https://uofi.box.com/s/3lflmha3o6fv98jntsrb8a394armayo8)
 
 ## Files
 
